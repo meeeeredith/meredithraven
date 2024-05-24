@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "me.pianopenguin471.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "EntityMixin",
+    "EntityPlayerMixin",
+    "EntityPlayerSPMixin",
+    "EntityRendererMixin",
+    "MinecraftMixin",
+    "NetworkManagerMixin",
+    "PlayerControllerMPMixin",
+    "RendererLivingEntityMixin",
+    "IS12PacketEntityVelocity",
+    "WorldMixin",
+    "FontRendererMixin",
+    "BlockMixin",
+    "BlockModelRendererMixin",
+    "WorldRendererMixin",
+    "BlockGrassMixin"
+
+  ]
+}

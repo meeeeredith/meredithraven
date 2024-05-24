@@ -1,0 +1,11 @@
+# Ignore .gradle directory
+.gradle/
+
+# Ignore .idea directory
+.idea/
+
+# Ignore build directory
+build/
+
+# Ignore .github directory
+.github/
