@@ -3,6 +3,19 @@ A Raven fork based off of [Raven B++](https://github.com/K-ov/Raven-bPLUS) for [
 
 ---
 
+# meredithraven
+
+this is a fork with some addons from `PianoPenguin471`'s current pre-release.
+The list below will be updated with features that are being added, possibly may merge these changes with the initial repo.
+
+- `fixed nametags not rendering in some cases`
+- `fixed chams not rendering is some cases`
+- `added distance display to nametags`
+- `added dynamic colored health display to nametags`
+- `added text scale slider for nametags`
+
+---
+
 ## Usage
 - You can open the GUI of RavenWeave by pressing RShift, you can change this key using `/gui <key>`.
 
